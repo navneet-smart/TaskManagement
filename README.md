@@ -6,8 +6,8 @@ This task has used React, Redux and Typescript with data to cache locally by usi
 # To run locally
 
 
--- yarn install
--- yarn start
+* yarn install
+* yarn start
 
 Username: test
 Password: 123456
